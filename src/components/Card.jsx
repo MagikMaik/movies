@@ -1,5 +1,5 @@
 import React from "react";
-import './stylesheets/Card.css'
+import './Stylesheets/Card.css'
 import axios from 'axios'
 import { useState, useEffect } from "react";
 
